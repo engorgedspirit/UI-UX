@@ -1,6 +1,6 @@
 # UI/UX Design Showcase: Flight Experience with 3D Plane Model and Captivating Transitions
 
-![Flight Game link](https://vrlpxxkv.dora.run/)
+![Flight Game link](https://vrlpxxkv.dora.run)
 
 ## About Dora Software
 
